@@ -1,3 +1,5 @@
+/* eslint-disable object-shorthand */
+/* eslint-disable react/state-in-constructor */
 import React from 'react';
 
 import { Cards, Chart, CountryPicker } from './components';
@@ -17,7 +19,7 @@ class App extends React.Component {
     this.setState({ data: fetchedData });
   }
 
-  handleCountryChange = async (country) => {
+  handleCountryChange = async country => {
     const fetchedData = await fetchData(country);
     this.setState({ data: fetchedData, country: country });
   }

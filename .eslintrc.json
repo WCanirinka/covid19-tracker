@@ -19,5 +19,6 @@
       "import/no-unresolved": "off",
       "no-shadow": "off",
       "arrow-parens": ["error", "as-needed"]
-    }
+    },
+    "parser": "babel-eslint"
   }
