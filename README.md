@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cbd7117c-11df-4ed3-a9dc-ff96bac3c347/deploy-status)](https://app.netlify.com/sites/sharp-darwin-0a3458/deploys)
+
 ## Table of Contents
 * [About the Project](#about-the-project)
 * [Live version](#live-version)
@@ -28,7 +30,7 @@ Description will go here.
 
 To get a local copy up and running follow these simple steps.
 
-Clone or fork the [repository](https://github.com/WCanirinka/bookstore-app).
+Clone or fork the [repository](https://github.com/WCanirinka/covid19-tracker).
 
 ### `npm start`
 
