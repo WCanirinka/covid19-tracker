@@ -12,7 +12,7 @@
 <!-- about-the-project -->
 # About the project
 
-Description will go here.
+Was learning how to use Material UI and Chart.js in a React App. This was for learning purpose
 
 ## Live version
 
