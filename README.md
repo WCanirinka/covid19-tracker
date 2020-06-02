@@ -16,7 +16,7 @@ Was learning how to use Material UI and Chart.js in a React App. This was for le
 
 ## Live version
 
-> [Here](https://thirsty-benz-e47a7e.netlify.app/)
+> [Here](https://track-covid19-update.netlify.app/)
 
 ## Built with
 
